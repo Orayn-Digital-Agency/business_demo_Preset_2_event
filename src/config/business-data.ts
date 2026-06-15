@@ -646,4 +646,4 @@ export const salonData: BusinessData = {
 //   eventsData      → Events
 //   salonData       → Beauty & Wellness
 // ─────────────────────────────────────────────────────────────
-export default salonData;
+export default eventsData;
